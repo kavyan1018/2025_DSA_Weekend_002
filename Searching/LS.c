@@ -19,7 +19,6 @@ int main()
         }
     }
 
-
     if(found){
         printf("Number %d found at index %d\n", search, i+1);
     }
